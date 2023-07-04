@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
-scikit-learn
+scikit-learn==1.0.1
 statsmodels
 matplotlib
+imblearn==0.0
